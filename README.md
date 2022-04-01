@@ -1,2 +1,2 @@
-# calkulator.github.io
-calculator
+# calculator.github.io
+project
